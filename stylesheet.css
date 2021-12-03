@@ -1,35 +1,18 @@
 
-
-
-#content{
-  color: black;
-  text-align: center;
-  font-style: Boulder
+.title{
+  text-align:center
 }
 
-
-#byline{
-  color: black;
-  text-align: left;
-  font-style: italic;
-}
-
-
-#Headline{
-  color: black;
-  text-align: center;
-  font-style: boldest;
-  font: Times-New-Roman;
-}
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-
 }
 
-.subheadings {
+
+.name{
   text-align: center;
+  text-decoration: underline;
 }
